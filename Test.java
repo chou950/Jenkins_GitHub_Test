@@ -2,7 +2,7 @@ public class Test{
 	
 	public static void main(String[] args){
 		
-		int a=1, b=1;
+		int a=2, b=2;
 		
 		System.out.println("a="+a);
 		System.out.println("b="+b);
